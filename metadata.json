@@ -1,0 +1,8 @@
+{
+  "name": "PrepIQ: AI Exam Preparation Assistant",
+  "description": "A high-end academic dashboard for exam preparation featuring AI-powered answer generation, PYQ analysis, and performance tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
